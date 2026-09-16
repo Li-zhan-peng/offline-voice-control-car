@@ -1,0 +1,98 @@
+====================================================================
+语音指令识别评测报告        模型标签: std8
+====================================================================
+时间: 2026-09-14 23:18:09
+板子自报模型: mn5q8_cn
+测试方式: 单条音频测试轨整段回放(试验间隔恒定 3.0 s)
+
+[A] 指令识别率(关键指标)
+    识别正确 : 35 / 56 = 62.5%
+    响应延迟 : 平均 350 ms, 中位 356 ms, 最快 154 ms, 最慢 512 ms
+    误驱动   : 实际触发动作 0 次(说明唤醒门放行了这些次)
+
+[B] 唤醒词
+    唤醒成功 : 3 / 5 = 60.0%
+
+[B2] 完整流程(唤醒->口令 一次说对)
+    完整成功 : 0 / 56 = 0.0%
+
+[C] 抗误触发
+    纯静音段 20 秒内误触发 0 次
+    全程误唤醒(凭空说起唤醒词) 0 次
+
+--- 各指令识别率 ---
+    id=2 开灯     7/8  88%
+    id=3 关灯     8/8  100%
+    id=4 前进     1/8  12%
+    id=5 后退     7/8  88%
+    id=6 左转     6/8  75%
+    id=7 右转     5/8  62%
+    id=8 停下     1/8  12%
+
+--- 混淆情况(期望 -> 实际) ---
+    前进     -> 漏检(没反应)        7 次
+    停下     -> 漏检(没反应)        7 次
+    右转     -> 漏检(没反应)        3 次
+    左转     -> 漏检(没反应)        2 次
+    后退     -> 漏检(没反应)        1 次
+    开灯     -> 漏检(没反应)        1 次
+
+--- 逐次明细 ---
+    序号 期望   实际       prob  响应延迟ms
+      1  右转     NONE       None  None
+      2  右转     youzhuan   0.18  374
+      3  后退     houtui     0.33  365
+      4  左转     zuozhuan   0.57  334
+      5  关灯     guandeng   0.51  512
+      6  右转     NONE       None  None
+      7  前进     NONE       None  None
+      8  停下     NONE       None  None
+      9  开灯     kaideng    0.73  470
+     10  左转     NONE       None  None
+     11  开灯     kaideng    0.28  417
+     12  后退     houtui     0.77  292
+     13  后退     houtui     0.72  259
+     14  左转     zuozhuan   0.4   356
+     15  关灯     guandeng   0.69  154
+     16  停下     NONE       None  None
+     17  左转     zuozhuan   0.25  415
+     18  开灯     kaideng    0.7   250
+     19  关灯     guandeng   0.61  447
+     20  停下     NONE       None  None
+     21  左转     NONE       None  None
+     22  开灯     kaideng    0.23  337
+     23  开灯     kaideng    0.74  253
+     24  关灯     guandeng   0.61  201
+     25  后退     NONE       None  None
+     26  停下     NONE       None  None
+     27  右转     youzhuan   0.21  375
+     28  前进     qianjin    0.18  445
+     29  左转     zuozhuan   0.38  287
+     30  右转     NONE       None  None
+     31  关灯     guandeng   0.71  187
+     32  后退     houtui     0.3   503
+     33  前进     NONE       None  None
+     34  开灯     kaideng    0.64  264
+     35  开灯     kaideng    0.7   493
+     36  停下     NONE       None  None
+     37  关灯     guandeng   0.19  448
+     38  后退     houtui     0.59  259
+     39  关灯     guandeng   0.5   237
+     40  右转     youzhuan   0.17  342
+     41  右转     youzhuan   0.28  436
+     42  前进     NONE       None  None
+     43  前进     NONE       None  None
+     44  后退     houtui     0.43  244
+     45  停下     NONE       None  None
+     46  关灯     guandeng   0.7   436
+     47  停下     tingxia    0.16  369
+     48  左转     zuozhuan   0.55  197
+     49  前进     NONE       None  None
+     50  停下     NONE       None  None
+     51  前进     NONE       None  None
+     52  前进     NONE       None  None
+     53  开灯     NONE       None  None
+     54  右转     youzhuan   0.25  490
+     55  后退     houtui     0.38  473
+     56  左转     zuozhuan   0.41  313
+====================================================================

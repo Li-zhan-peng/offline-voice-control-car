@@ -1,0 +1,244 @@
+[   4.120] I (27227) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.22 ===
+[   4.120] I (27227) CustomWakeWord: MNPOST num=1 7:0.221
+[   4.120] I (27227) CustomWakeWord: VOICEENERGY ratio=2.68 peak=7063.6 noise=2637.4
+[   4.120] I (27237) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[   8.419] I (31547) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.29 ===
+[   8.419] I (31547) CustomWakeWord: MNPOST num=1 7:0.286
+[   8.419] I (31547) CustomWakeWord: VOICEENERGY ratio=3.93 peak=7598.9 noise=1933.6
+[   8.419] I (31547) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[  11.533] I (34687) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.09 ===
+[  11.533] I (34687) CustomWakeWord: MNPOST num=1 2:0.094
+[  11.533] I (34687) CustomWakeWord: VOICEENERGY ratio=0.57 peak=792.1 noise=1392.9
+[  11.533] I (34697) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  12.777] I (35897) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.12 ===
+[  12.777] I (35897) CustomWakeWord: MNPOST num=1 5:0.116
+[  12.777] I (35897) CustomWakeWord: VOICEENERGY ratio=5.25 peak=7782.2 noise=1481.5
+[  12.777] I (35907) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  17.322] I (40447) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.18 ===
+[  17.322] I (40447) CustomWakeWord: MNPOST num=1 6:0.176
+[  17.322] I (40447) CustomWakeWord: VOICEENERGY ratio=3.27 peak=4374.7 noise=1338.1
+[  17.322] I (40457) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  18.506] I (41657) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.06 ===
+[  18.506] I (41657) CustomWakeWord: MNPOST num=1 6:0.059
+[  18.506] I (41657) CustomWakeWord: VOICEENERGY ratio=1.79 peak=2352.3 noise=1311.1
+[  18.506] I (41667) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  21.614] I (44767) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.13 ===
+[  21.614] I (44767) CustomWakeWord: MNPOST num=1 3:0.131
+[  21.614] I (44767) CustomWakeWord: VOICEENERGY ratio=5.14 peak=6566.2 noise=1276.9
+[  21.614] I (44767) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  25.915] I (49057) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.07 ===
+[  25.915] I (49057) CustomWakeWord: MNPOST num=1 7:0.072
+[  25.915] I (49057) CustomWakeWord: VOICEENERGY ratio=5.94 peak=7680.7 noise=1292.9
+[  25.915] I (49067) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[  30.523] I (53637) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.25 ===
+[  30.523] I (53637) CustomWakeWord: MNPOST num=1 4:0.247
+[  30.523] I (53637) CustomWakeWord: VOICEENERGY ratio=2.66 peak=3673.0 noise=1383.3
+[  30.523] I (53637) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[  34.811] I (57957) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.11 ===
+[  34.811] I (57957) CustomWakeWord: MNPOST num=1 8:0.107
+[  34.811] I (57957) CustomWakeWord: VOICEENERGY ratio=6.00 peak=9261.5 noise=1543.9
+[  34.811] I (57967) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[  39.150] I (62277) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.25 ===
+[  39.150] I (62277) CustomWakeWord: MNPOST num=1 2:0.246
+[  39.150] I (62277) CustomWakeWord: VOICEENERGY ratio=4.40 peak=7047.5 noise=1601.7
+[  39.150] I (62277) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  43.485] I (66597) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.27 ===
+[  43.485] I (66597) CustomWakeWord: MNPOST num=1 6:0.270
+[  43.485] I (66597) CustomWakeWord: VOICEENERGY ratio=3.10 peak=5354.0 noise=1724.8
+[  43.485] I (66607) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  47.823] I (70937) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.23 ===
+[  47.823] I (70937) CustomWakeWord: MNPOST num=1 2:0.225
+[  47.823] I (70937) CustomWakeWord: VOICEENERGY ratio=6.12 peak=7992.5 noise=1305.1
+[  47.823] I (70947) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  49.001] I (72117) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.07 ===
+[  49.001] I (72117) CustomWakeWord: MNPOST num=1 4:0.067
+[  49.001] I (72127) CustomWakeWord: VOICEENERGY ratio=2.07 peak=2399.2 noise=1161.8
+[  49.001] I (72127) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[  52.100] I (75267) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.08 ===
+[  52.100] I (75267) CustomWakeWord: MNPOST num=1 5:0.079
+[  52.163] I (75267) CustomWakeWord: VOICEENERGY ratio=6.34 peak=6935.6 noise=1093.6
+[  52.163] I (75267) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  56.682] I (79807) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.05 ===
+[  56.682] I (79807) CustomWakeWord: MNPOST num=1 5:0.054
+[  56.682] I (79807) CustomWakeWord: VOICEENERGY ratio=5.01 peak=4340.4 noise=866.7
+[  56.682] I (79817) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  60.970] I (84097) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.08 ===
+[  60.970] I (84097) CustomWakeWord: MNPOST num=1 6:0.077
+[  60.970] I (84097) CustomWakeWord: VOICEENERGY ratio=5.79 peak=4628.2 noise=799.1
+[  60.970] I (84107) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  65.499] I (88637) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.26 ===
+[  65.499] I (88637) CustomWakeWord: MNPOST num=1 3:0.260
+[  65.499] I (88637) CustomWakeWord: VOICEENERGY ratio=5.57 peak=3944.4 noise=708.7
+[  65.499] I (88647) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  69.837] I (92957) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.14 ===
+[  69.837] I (92957) CustomWakeWord: MNPOST num=1 8:0.137
+[  69.837] I (92957) CustomWakeWord: VOICEENERGY ratio=8.36 peak=5578.5 noise=667.3
+[  69.837] I (92967) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[  74.126] I (97257) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.05 ===
+[  74.126] I (97257) CustomWakeWord: MNPOST num=1 6:0.053
+[  74.126] I (97257) CustomWakeWord: VOICEENERGY ratio=6.51 peak=4383.3 noise=673.4
+[  74.126] I (97257) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  78.462] I (101597) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.37 ===
+[  78.462] I (101597) CustomWakeWord: MNPOST num=1 2:0.372
+[  78.462] I (101597) CustomWakeWord: VOICEENERGY ratio=8.37 peak=5765.8 noise=688.7
+[  78.462] I (101607) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  82.798] I (105947) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.16 ===
+[  82.798] I (105947) CustomWakeWord: MNPOST num=1 3:0.157
+[  82.798] I (105947) CustomWakeWord: VOICEENERGY ratio=6.46 peak=4262.8 noise=660.3
+[  82.798] I (105957) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  87.386] I (110497) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[  87.386] I (110497) CustomWakeWord: MNPOST num=1 8:0.053
+[  87.386] I (110497) CustomWakeWord: VOICEENERGY ratio=9.96 peak=7683.3 noise=771.3
+[  87.386] I (110507) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[  91.649] I (114787) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.07 ===
+[  91.649] I (114787) CustomWakeWord: MNPOST num=1 6:0.067
+[  91.649] I (114787) CustomWakeWord: VOICEENERGY ratio=6.01 peak=4977.8 noise=827.6
+[  91.649] I (114787) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  95.984] I (119107) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.07 ===
+[  95.984] I (119107) CustomWakeWord: MNPOST num=1 2:0.069
+[  95.984] I (119107) CustomWakeWord: VOICEENERGY ratio=6.65 peak=5015.7 noise=754.5
+[  95.984] I (119107) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 100.316] I (123427) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.55 ===
+[ 100.316] I (123427) CustomWakeWord: MNPOST num=1 2:0.554
+[ 100.316] I (123427) CustomWakeWord: VOICEENERGY ratio=7.63 peak=5494.5 noise=719.9
+[ 100.316] I (123437) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 104.662] I (127777) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.17 ===
+[ 104.662] I (127777) CustomWakeWord: MNPOST num=1 3:0.171
+[ 104.662] I (127777) CustomWakeWord: VOICEENERGY ratio=7.09 peak=4848.9 noise=683.6
+[ 104.662] I (127777) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 108.936] I (132097) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.15 ===
+[ 108.936] I (132097) CustomWakeWord: MNPOST num=1 5:0.147
+[ 108.936] I (132097) CustomWakeWord: VOICEENERGY ratio=8.72 peak=6021.7 noise=690.6
+[ 108.998] I (132107) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 113.515] I (136667) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.08 ===
+[ 113.515] I (136667) CustomWakeWord: MNPOST num=1 8:0.078
+[ 113.515] I (136667) CustomWakeWord: VOICEENERGY ratio=10.68 peak=8500.2 noise=796.1
+[ 113.515] I (136677) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 117.845] I (140967) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.13 ===
+[ 117.845] I (140967) CustomWakeWord: MNPOST num=1 7:0.135
+[ 117.845] I (140967) CustomWakeWord: VOICEENERGY ratio=7.81 peak=7008.1 noise=897.5
+[ 117.845] I (140977) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 122.413] I (145537) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.11 ===
+[ 122.413] I (145537) CustomWakeWord: MNPOST num=1 4:0.110
+[ 122.413] I (145537) CustomWakeWord: VOICEENERGY ratio=5.23 peak=4273.9 noise=816.6
+[ 122.413] I (145537) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 126.685] I (149827) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.16 ===
+[ 126.685] I (149827) CustomWakeWord: MNPOST num=1 6:0.157
+[ 126.685] I (149827) CustomWakeWord: VOICEENERGY ratio=5.79 peak=4721.0 noise=815.4
+[ 126.685] I (149827) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 131.028] I (154147) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.07 ===
+[ 131.028] I (154147) CustomWakeWord: MNPOST num=1 7:0.066
+[ 131.028] I (154147) CustomWakeWord: VOICEENERGY ratio=5.99 peak=5097.1 noise=850.3
+[ 131.028] I (154147) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 135.562] I (158687) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.20 ===
+[ 135.562] I (158687) CustomWakeWord: MNPOST num=1 3:0.203
+[ 135.562] I (158687) CustomWakeWord: VOICEENERGY ratio=6.17 peak=4588.1 noise=744.2
+[ 135.562] I (158697) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 139.833] I (162967) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.16 ===
+[ 139.833] I (162967) CustomWakeWord: MNPOST num=1 5:0.161
+[ 139.833] I (162967) CustomWakeWord: VOICEENERGY ratio=8.70 peak=6168.1 noise=709.0
+[ 139.833] I (162977) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 144.355] I (167507) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.26 ===
+[ 144.355] I (167507) CustomWakeWord: MNPOST num=1 4:0.261
+[ 144.355] I (167507) CustomWakeWord: VOICEENERGY ratio=4.78 peak=3146.9 noise=659.0
+[ 144.355] I (167517) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 148.633] I (171797) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.22 ===
+[ 148.633] I (171797) CustomWakeWord: MNPOST num=1 2:0.217
+[ 148.633] I (171797) CustomWakeWord: VOICEENERGY ratio=8.66 peak=5878.8 noise=679.1
+[ 148.695] I (171807) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 152.970] I (176087) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.06 ===
+[ 152.970] I (176087) CustomWakeWord: MNPOST num=1 2:0.057
+[ 152.970] I (176087) CustomWakeWord: VOICEENERGY ratio=8.86 peak=6933.6 noise=782.4
+[ 152.970] I (176097) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 157.244] I (180407) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.06 ===
+[ 157.244] I (180407) CustomWakeWord: MNPOST num=1 8:0.059
+[ 157.244] I (180407) CustomWakeWord: VOICEENERGY ratio=10.34 peak=9078.3 noise=877.6
+[ 157.307] I (180417) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 161.645] I (184757) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.25 ===
+[ 161.645] I (184757) CustomWakeWord: MNPOST num=1 3:0.250
+[ 161.645] I (184757) CustomWakeWord: VOICEENERGY ratio=9.20 peak=8768.1 noise=952.8
+[ 161.645] I (184767) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 165.915] I (189087) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.05 ===
+[ 165.915] I (189087) CustomWakeWord: MNPOST num=1 5:0.051
+[ 165.978] I (189087) CustomWakeWord: VOICEENERGY ratio=8.28 peak=7364.4 noise=889.3
+[ 165.978] I (189087) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 170.495] I (193657) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.43 ===
+[ 170.495] I (193657) CustomWakeWord: MNPOST num=1 3:0.428
+[ 170.495] I (193657) CustomWakeWord: VOICEENERGY ratio=7.73 peak=7139.8 noise=923.7
+[ 170.495] I (193657) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 174.829] I (197947) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.19 ===
+[ 174.829] I (197947) CustomWakeWord: MNPOST num=1 7:0.186
+[ 174.829] I (197947) CustomWakeWord: VOICEENERGY ratio=8.16 peak=8029.0 noise=984.0
+[ 174.829] I (197957) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 179.098] I (202267) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.23 ===
+[ 179.098] I (202267) CustomWakeWord: MNPOST num=1 7:0.227
+[ 179.161] I (202267) CustomWakeWord: VOICEENERGY ratio=8.15 peak=8262.5 noise=1014.1
+[ 179.161] I (202277) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 183.691] I (206847) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.22 ===
+[ 183.691] I (206847) CustomWakeWord: MNPOST num=1 4:0.224
+[ 183.691] I (206847) CustomWakeWord: VOICEENERGY ratio=4.73 peak=4105.5 noise=868.0
+[ 183.691] I (206847) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 188.031] I (211167) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.05 ===
+[ 188.031] I (211167) CustomWakeWord: MNPOST num=1 4:0.051
+[ 188.031] I (211167) CustomWakeWord: VOICEENERGY ratio=5.58 peak=4545.9 noise=814.6
+[ 188.031] I (211177) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 192.313] I (215487) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.08 ===
+[ 192.313] I (215487) CustomWakeWord: MNPOST num=1 5:0.085
+[ 192.376] I (215487) CustomWakeWord: VOICEENERGY ratio=9.67 peak=8067.7 noise=834.2
+[ 192.376] I (215487) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 196.899] I (220057) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.06 ===
+[ 196.899] I (220057) CustomWakeWord: MNPOST num=1 8:0.056
+[ 196.899] I (220057) CustomWakeWord: VOICEENERGY ratio=11.22 peak=9805.9 noise=874.0
+[ 196.899] I (220057) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 201.227] I (224377) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.21 ===
+[ 201.227] I (224377) CustomWakeWord: MNPOST num=1 3:0.206
+[ 201.227] I (224377) CustomWakeWord: VOICEENERGY ratio=9.42 peak=8665.9 noise=920.0
+[ 201.227] I (224377) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 205.558] I (228727) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.14 ===
+[ 205.558] I (228727) CustomWakeWord: MNPOST num=1 8:0.140
+[ 205.558] I (228727) CustomWakeWord: VOICEENERGY ratio=12.06 peak=11428.8 noise=947.6
+[ 205.620] I (228727) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 209.903] I (233047) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.09 ===
+[ 209.903] I (233047) CustomWakeWord: MNPOST num=1 6:0.094
+[ 209.903] I (233047) CustomWakeWord: VOICEENERGY ratio=6.20 peak=5892.9 noise=950.7
+[ 209.903] I (233057) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 214.493] I (237667) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.30 ===
+[ 214.493] I (237667) CustomWakeWord: MNPOST num=1 4:0.299
+[ 214.554] I (237667) CustomWakeWord: VOICEENERGY ratio=5.68 peak=4957.5 noise=873.4
+[ 214.554] I (237667) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 218.826] I (241987) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.06 ===
+[ 218.826] I (241987) CustomWakeWord: MNPOST num=1 8:0.057
+[ 218.826] I (241987) CustomWakeWord: VOICEENERGY ratio=11.04 peak=9948.9 noise=900.8
+[ 218.826] I (241987) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 223.413] I (246557) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.26 ===
+[ 223.413] I (246557) CustomWakeWord: MNPOST num=1 4:0.264
+[ 223.413] I (246557) CustomWakeWord: VOICEENERGY ratio=4.90 peak=4064.1 noise=829.0
+[ 223.413] I (246567) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 227.759] I (250877) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.06 ===
+[ 227.759] I (250877) CustomWakeWord: MNPOST num=1 4:0.062
+[ 227.759] I (250877) CustomWakeWord: VOICEENERGY ratio=6.36 peak=5151.9 noise=810.1
+[ 227.759] I (250887) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 232.040] I (255197) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.29 ===
+[ 232.040] I (255197) CustomWakeWord: MNPOST num=1 2:0.287
+[ 232.040] I (255197) CustomWakeWord: VOICEENERGY ratio=9.27 peak=7740.5 noise=834.8
+[ 232.040] I (255207) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 236.360] I (259517) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.07 ===
+[ 236.360] I (259517) CustomWakeWord: MNPOST num=1 7:0.070
+[ 236.360] I (259517) CustomWakeWord: VOICEENERGY ratio=8.70 peak=8159.9 noise=937.8
+[ 236.360] I (259527) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 240.697] I (263867) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.30 ===
+[ 240.697] I (263867) CustomWakeWord: MNPOST num=1 5:0.295
+[ 240.758] I (263867) CustomWakeWord: VOICEENERGY ratio=8.05 peak=7187.5 noise=892.6
+[ 240.758] I (263877) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 245.277] I (268417) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.19 ===
+[ 245.277] I (268417) CustomWakeWord: MNPOST num=1 6:0.191
+[ 245.277] I (268417) CustomWakeWord: VOICEENERGY ratio=4.96 peak=4461.9 noise=898.8
+[ 245.277] I (268427) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 249.927] I (273047) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.11 ===
+[ 249.927] I (273047) CustomWakeWord: MNPOST num=1 1:0.111
+[ 249.927] I (273047) CustomWakeWord: VOICEENERGY ratio=5.03 peak=5340.6 noise=1061.4
+[ 249.927] I (273057) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 261.392] I (284537) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.10 ===
+[ 261.392] I (284537) CustomWakeWord: MNPOST num=1 1:0.098
+[ 261.392] I (284537) CustomWakeWord: VOICEENERGY ratio=4.48 peak=5836.2 noise=1303.5
+[ 261.392] I (284547) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s

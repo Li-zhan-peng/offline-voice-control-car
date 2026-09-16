@@ -1,0 +1,31 @@
+# 生成物与本地文件，不要提交
+voice_set/
+bench/voice_set/
+*.wav
+*.bin
+*.elf
+*.map
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults
+managed_components/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+*.log.bak
+_capture.txt
+
+# Office / 临时文件
+~$*
+*.tmp
+
+# 评测台运行时产生的输出（如需保留某次结果，请手动放到 data/ 下）
+bench/bench_*.txt
+bench/bench_*.csv
+bench/bench_*.log
+bench/_capture.log
+bench/samples_*.csv
+bench/规则优化_*.txt
+bench/*_serial.log

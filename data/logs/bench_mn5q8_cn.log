@@ -1,0 +1,114 @@
+[   8.369] I (34076) CustomWakeWord: === LOCAL CMD: id=7, word=youzhuan, prob=0.18 ===
+[   8.369] I (34076) CustomWakeWord: MNPOST num=1 7:0.182
+[   8.369] I (34076) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[  12.735] I (38426) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.33 ===
+[  12.735] I (38426) CustomWakeWord: MNPOST num=1 5:0.328
+[  12.735] I (38426) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  17.097] I (42776) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.57 ===
+[  17.097] I (42776) CustomWakeWord: MNPOST num=1 6:0.571
+[  17.097] I (42776) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  21.650] I (47326) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.51 ===
+[  21.650] I (47326) CustomWakeWord: MNPOST num=1 3:0.514
+[  21.650] I (47326) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  39.172] I (64886) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.73 ===
+[  39.172] I (64886) CustomWakeWord: MNPOST num=1 2:0.733
+[  39.172] I (64886) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  47.829] I (73556) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.28 ===
+[  47.829] I (73556) CustomWakeWord: MNPOST num=1 2:0.277
+[  47.890] I (73556) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  52.067] I (77756) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.77 ===
+[  52.067] I (77756) CustomWakeWord: MNPOST num=1 5:0.775
+[  52.067] I (77756) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  56.424] I (82106) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.72 ===
+[  56.424] I (82106) CustomWakeWord: MNPOST num=1 5:0.715
+[  56.424] I (82106) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[  60.913] I (86606) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.40 ===
+[  60.913] I (86606) CustomWakeWord: MNPOST num=1 6:0.397
+[  60.913] I (86606) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  65.087] I (90806) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.69 ===
+[  65.087] I (90806) CustomWakeWord: MNPOST num=1 3:0.691
+[  65.087] I (90806) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  74.128] I (99836) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.25 ===
+[  74.128] I (99836) CustomWakeWord: MNPOST num=1 6:0.253
+[  74.128] I (99836) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[  78.307] I (104026) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.70 ===
+[  78.307] I (104026) CustomWakeWord: MNPOST num=1 2:0.703
+[  78.307] I (104026) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[  82.860] I (108536) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.61 ===
+[  82.860] I (108536) CustomWakeWord: MNPOST num=1 3:0.613
+[  82.860] I (108536) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[  95.874] I (121586) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.23 ===
+[  95.874] I (121586) CustomWakeWord: MNPOST num=1 2:0.226
+[  95.874] I (121586) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 100.114] I (125786) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.74 ===
+[ 100.114] I (125786) CustomWakeWord: MNPOST num=1 2:0.741
+[ 100.114] I (125786) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 104.419] I (130136) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.61 ===
+[ 104.419] I (130136) CustomWakeWord: MNPOST num=1 3:0.610
+[ 104.419] I (130136) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 117.780] I (143476) CustomWakeWord: === LOCAL CMD: id=7, word=youzhuan, prob=0.21 ===
+[ 117.780] I (143476) CustomWakeWord: MNPOST num=1 7:0.213
+[ 117.780] I (143476) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 122.278] I (147986) CustomWakeWord: === LOCAL CMD: id=4, word=qianjin, prob=0.18 ===
+[ 122.278] I (147986) CustomWakeWord: MNPOST num=1 4:0.179
+[ 122.278] I (147986) CustomWakeWord: cmd 4 ignored (wake word was not said)
+[ 126.499] I (152186) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.38 ===
+[ 126.499] I (152186) CustomWakeWord: MNPOST num=1 6:0.383
+[ 126.499] I (152186) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 135.170] I (160886) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.71 ===
+[ 135.170] I (160886) CustomWakeWord: MNPOST num=1 3:0.712
+[ 135.170] I (160886) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 139.848] I (165556) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.30 ===
+[ 139.848] I (165556) CustomWakeWord: MNPOST num=1 5:0.305
+[ 139.848] I (165556) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 148.391] I (174106) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.64 ===
+[ 148.391] I (174106) CustomWakeWord: MNPOST num=1 2:0.637
+[ 148.391] I (174106) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 152.945] I (178646) CustomWakeWord: === LOCAL CMD: id=2, word=kaideng, prob=0.70 ===
+[ 152.945] I (178646) CustomWakeWord: MNPOST num=1 2:0.699
+[ 152.945] I (178646) CustomWakeWord: cmd 2 ignored (wake word was not said)
+[ 161.671] I (187346) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.19 ===
+[ 161.671] I (187346) CustomWakeWord: MNPOST num=1 3:0.186
+[ 161.671] I (187346) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 165.843] I (191546) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.59 ===
+[ 165.843] I (191546) CustomWakeWord: MNPOST num=1 5:0.592
+[ 165.843] I (191546) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 170.205] I (195896) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.50 ===
+[ 170.205] I (195896) CustomWakeWord: MNPOST num=1 3:0.504
+[ 170.205] I (195896) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 174.692] I (200416) CustomWakeWord: === LOCAL CMD: id=7, word=youzhuan, prob=0.17 ===
+[ 174.692] I (200416) CustomWakeWord: MNPOST num=1 7:0.168
+[ 174.692] I (200416) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 179.182] I (204916) CustomWakeWord: === LOCAL CMD: id=7, word=youzhuan, prob=0.28 ===
+[ 179.182] I (204916) CustomWakeWord: MNPOST num=1 7:0.275
+[ 179.244] I (204916) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 192.223] I (217916) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.43 ===
+[ 192.223] I (217916) CustomWakeWord: MNPOST num=1 5:0.429
+[ 192.223] I (217916) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 201.214] I (226906) CustomWakeWord: === LOCAL CMD: id=3, word=guandeng, prob=0.70 ===
+[ 201.214] I (226906) CustomWakeWord: MNPOST num=1 3:0.700
+[ 201.214] I (226906) CustomWakeWord: cmd 3 ignored (wake word was not said)
+[ 205.584] I (231286) CustomWakeWord: === LOCAL CMD: id=8, word=tingxia, prob=0.16 ===
+[ 205.584] I (231286) CustomWakeWord: MNPOST num=1 8:0.157
+[ 205.584] I (231286) CustomWakeWord: cmd 8 ignored (wake word was not said)
+[ 209.755] I (235486) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.55 ===
+[ 209.755] I (235486) CustomWakeWord: MNPOST num=1 6:0.551
+[ 209.755] I (235486) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 236.480] I (262166) CustomWakeWord: === LOCAL CMD: id=7, word=youzhuan, prob=0.25 ===
+[ 236.480] I (262166) CustomWakeWord: MNPOST num=1 7:0.248
+[ 236.480] I (262166) CustomWakeWord: cmd 7 ignored (wake word was not said)
+[ 240.837] I (266516) CustomWakeWord: === LOCAL CMD: id=5, word=houtui, prob=0.38 ===
+[ 240.837] I (266516) CustomWakeWord: MNPOST num=1 5:0.377
+[ 240.837] I (266516) CustomWakeWord: cmd 5 ignored (wake word was not said)
+[ 245.070] I (270746) CustomWakeWord: === LOCAL CMD: id=6, word=zuozhuan, prob=0.41 ===
+[ 245.070] I (270746) CustomWakeWord: MNPOST num=1 6:0.414
+[ 245.070] I (270746) CustomWakeWord: cmd 6 ignored (wake word was not said)
+[ 249.738] I (275416) CustomWakeWord: === LOCAL CMD: id=1, word=nihaoxiaoche, prob=0.37 ===
+[ 249.738] I (275416) CustomWakeWord: MNPOST num=1 1:0.368
+[ 249.738] I (275416) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 253.912] I (279616) CustomWakeWord: === LOCAL CMD: id=1, word=nihaoxiaoche, prob=0.18 ===
+[ 253.912] I (279616) CustomWakeWord: MNPOST num=1 1:0.185
+[ 253.912] I (279616) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 261.451] I (287156) CustomWakeWord: === LOCAL CMD: id=1, word=nihaoxiaoche, prob=0.97 ===
+[ 261.451] I (287156) CustomWakeWord: MNPOST num=1 1:0.969
+[ 261.451] I (287156) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s

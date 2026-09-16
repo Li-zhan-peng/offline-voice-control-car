@@ -1,0 +1,300 @@
+[   4.452] I (27277) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.13 ===
+[   4.452] I (27277) CustomWakeWord: MNPOST num=1 1:0.131
+[   4.452] I (27277) CustomWakeWord: VOICEENERGY ratio=7.28 peak=5324.2 noise=731.3
+[   4.452] I (27277) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[   7.179] I (29987) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.38 ===
+[   7.179] I (29987) CustomWakeWord: MNPOST num=1 6:0.382
+[   7.179] I (29987) CustomWakeWord: VOICEENERGY ratio=5.37 peak=4795.8 noise=892.4
+[   7.179] I (29997) motor: wheel speeds (M3/M4) = [-15, 15]
+[   7.179] I (30007) CustomWakeWord: ACTION: turn left (until 'stop')
+[   9.906] I (32747) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.15 ===
+[   9.906] I (32747) CustomWakeWord: MNPOST num=1 8:0.154
+[   9.969] I (32747) CustomWakeWord: VOICEENERGY ratio=4.93 peak=8206.0 noise=1662.9
+[   9.969] I (32757) motor: car stop
+[   9.969] I (32757) CustomWakeWord: ACTION: stop
+[  14.557] I (37357) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.07 ===
+[  14.557] I (37357) CustomWakeWord: MNPOST num=1 1:0.075
+[  14.557] I (37357) CustomWakeWord: VOICEENERGY ratio=3.77 peak=5361.6 noise=1420.8
+[  14.557] I (37357) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  17.283] I (40097) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.17 ===
+[  17.283] I (40097) CustomWakeWord: MNPOST num=1 3:0.166
+[  17.283] I (40097) CustomWakeWord: VOICEENERGY ratio=6.39 peak=8687.9 noise=1359.6
+[  20.018] I (42857) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.30 ===
+[  20.018] I (42857) CustomWakeWord: MNPOST num=1 8:0.297
+[  20.018] I (42857) CustomWakeWord: VOICEENERGY ratio=7.33 peak=9583.6 noise=1307.0
+[  20.079] I (42867) motor: car stop
+[  20.079] I (42867) CustomWakeWord: ACTION: stop
+[  24.618] I (47467) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.09 ===
+[  24.618] I (47467) CustomWakeWord: MNPOST num=1 1:0.086
+[  24.680] I (47467) CustomWakeWord: VOICEENERGY ratio=4.76 peak=6009.1 noise=1263.5
+[  24.680] I (47467) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  27.416] I (50227) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.58 ===
+[  27.416] I (50227) CustomWakeWord: MNPOST num=1 2:0.580
+[  27.416] I (50227) CustomWakeWord: VOICEENERGY ratio=4.86 peak=5645.6 noise=1161.0
+[  29.901] I (52747) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[  29.901] I (52747) CustomWakeWord: MNPOST num=1 8:0.053
+[  29.962] I (52747) CustomWakeWord: VOICEENERGY ratio=7.50 peak=8208.3 noise=1094.9
+[  29.962] I (52747) motor: car stop
+[  29.962] I (52757) CustomWakeWord: ACTION: stop
+[  34.814] I (57647) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.13 ===
+[  34.814] I (57647) CustomWakeWord: MNPOST num=1 1:0.134
+[  34.814] I (57647) CustomWakeWord: VOICEENERGY ratio=3.34 peak=3176.4 noise=950.7
+[  34.814] I (57657) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  37.547] I (60397) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.27 ===
+[  37.547] I (60397) CustomWakeWord: MNPOST num=1 8:0.270
+[  37.609] I (60397) CustomWakeWord: VOICEENERGY ratio=6.42 peak=5958.7 noise=927.4
+[  37.609] I (60397) motor: car stop
+[  37.609] I (60407) CustomWakeWord: ACTION: stop
+[  40.095] I (62927) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.07 ===
+[  40.095] I (62927) CustomWakeWord: MNPOST num=1 8:0.069
+[  40.095] I (62927) CustomWakeWord: VOICEENERGY ratio=7.72 peak=7227.2 noise=936.0
+[  40.095] I (62937) motor: car stop
+[  40.095] I (62937) CustomWakeWord: ACTION: stop
+[  44.998] I (67817) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.14 ===
+[  44.998] I (67817) CustomWakeWord: MNPOST num=1 1:0.145
+[  44.998] I (67817) CustomWakeWord: VOICEENERGY ratio=4.00 peak=3521.0 noise=880.3
+[  44.998] I (67827) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  47.482] I (70317) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.19 ===
+[  47.482] I (70317) CustomWakeWord: MNPOST num=1 7:0.186
+[  47.482] I (70317) CustomWakeWord: VOICEENERGY ratio=5.53 peak=5178.0 noise=936.8
+[  47.482] I (70327) motor: wheel speeds (M3/M4) = [15, -15]
+[  47.545] I (70327) CustomWakeWord: ACTION: turn right (until 'stop')
+[  50.339] I (73127) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.08 ===
+[  50.339] I (73127) CustomWakeWord: MNPOST num=1 8:0.084
+[  50.339] I (73127) CustomWakeWord: VOICEENERGY ratio=4.70 peak=6947.5 noise=1479.0
+[  50.339] I (73137) motor: car stop
+[  50.339] I (73137) CustomWakeWord: ACTION: stop
+[  54.999] I (77807) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.13 ===
+[  54.999] I (77807) CustomWakeWord: MNPOST num=1 1:0.130
+[  54.999] I (77807) CustomWakeWord: VOICEENERGY ratio=3.55 peak=4191.3 noise=1179.6
+[  54.999] I (77817) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  57.739] I (80587) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.06 ===
+[  57.739] I (80587) CustomWakeWord: MNPOST num=1 8:0.055
+[  57.801] I (80587) CustomWakeWord: VOICEENERGY ratio=5.89 peak=6293.9 noise=1069.3
+[  57.801] I (80587) motor: car stop
+[  57.801] I (80597) CustomWakeWord: ACTION: stop
+[  60.539] I (83347) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[  60.539] I (83347) CustomWakeWord: MNPOST num=1 8:0.052
+[  60.539] I (83347) CustomWakeWord: VOICEENERGY ratio=5.79 peak=5845.9 noise=1010.0
+[  60.539] I (83347) motor: car stop
+[  60.539] I (83347) CustomWakeWord: ACTION: stop
+[  65.131] I (87977) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.10 ===
+[  65.131] I (87977) CustomWakeWord: MNPOST num=1 1:0.096
+[  65.193] I (87977) CustomWakeWord: VOICEENERGY ratio=4.43 peak=4172.4 noise=942.6
+[  65.193] I (87987) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  67.182] I (90007) motor: car stop
+[  67.182] I (90007) CustomWakeWord: AUTO STOP (safety)
+[  67.926] I (90727) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.10 ===
+[  67.926] I (90727) CustomWakeWord: MNPOST num=1 3:0.097
+[  67.926] I (90727) CustomWakeWord: VOICEENERGY ratio=5.93 peak=5480.0 noise=923.9
+[  70.655] I (93487) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.09 ===
+[  70.655] I (93487) CustomWakeWord: MNPOST num=1 8:0.086
+[  70.655] I (93487) CustomWakeWord: VOICEENERGY ratio=6.87 peak=6170.5 noise=898.6
+[  70.655] I (93487) motor: car stop
+[  70.655] I (93487) CustomWakeWord: ACTION: stop
+[  75.311] I (98117) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.13 ===
+[  75.311] I (98117) CustomWakeWord: MNPOST num=1 1:0.130
+[  75.311] I (98117) CustomWakeWord: VOICEENERGY ratio=4.49 peak=3952.3 noise=879.6
+[  75.311] I (98127) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  78.040] I (100877) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.26 ===
+[  78.040] I (100877) CustomWakeWord: MNPOST num=1 6:0.259
+[  78.040] I (100877) CustomWakeWord: VOICEENERGY ratio=3.66 peak=3180.7 noise=868.1
+[  78.104] I (100887) motor: wheel speeds (M3/M4) = [-15, 15]
+[  78.104] I (100887) CustomWakeWord: ACTION: turn left (until 'stop')
+[  80.844] I (103647) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.30 ===
+[  80.844] I (103657) CustomWakeWord: MNPOST num=1 8:0.301
+[  80.844] I (103657) CustomWakeWord: VOICEENERGY ratio=4.12 peak=6515.3 noise=1581.0
+[  80.844] I (103657) motor: car stop
+[  80.844] I (103657) CustomWakeWord: ACTION: stop
+[  85.443] I (108257) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.09 ===
+[  85.443] I (108257) CustomWakeWord: MNPOST num=1 1:0.093
+[  85.443] I (108257) CustomWakeWord: VOICEENERGY ratio=2.89 peak=3572.3 noise=1234.2
+[  85.443] I (108267) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  88.178] I (110987) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.26 ===
+[  88.178] I (110987) CustomWakeWord: MNPOST num=1 2:0.262
+[  88.178] I (110987) CustomWakeWord: VOICEENERGY ratio=4.67 peak=5105.2 noise=1092.8
+[  90.906] I (113707) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.06 ===
+[  90.906] I (113707) CustomWakeWord: MNPOST num=1 8:0.059
+[  90.906] I (113707) CustomWakeWord: VOICEENERGY ratio=6.18 peak=6235.8 noise=1009.3
+[  90.906] I (113717) motor: car stop
+[  90.906] I (113717) CustomWakeWord: ACTION: stop
+[  95.494] I (118337) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.14 ===
+[  95.494] I (118337) CustomWakeWord: MNPOST num=1 1:0.137
+[  95.556] I (118337) CustomWakeWord: VOICEENERGY ratio=4.23 peak=3908.0 noise=924.1
+[  95.556] I (118347) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[  98.284] I (121097) CustomWakeWord: === LOCAL CMD: id=3, word= guan deng, prob=0.17 ===
+[  98.284] I (121097) CustomWakeWord: MNPOST num=1 3:0.171
+[  98.284] I (121097) CustomWakeWord: VOICEENERGY ratio=6.31 peak=5848.4 noise=926.2
+[ 100.771] I (123617) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[ 100.771] I (123617) CustomWakeWord: MNPOST num=1 8:0.053
+[ 100.832] I (123617) CustomWakeWord: VOICEENERGY ratio=6.36 peak=6598.0 noise=1037.6
+[ 100.832] I (123627) motor: car stop
+[ 100.832] I (123627) CustomWakeWord: ACTION: stop
+[ 105.734] I (128527) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.12 ===
+[ 105.734] I (128527) CustomWakeWord: MNPOST num=1 1:0.118
+[ 105.734] I (128527) CustomWakeWord: VOICEENERGY ratio=6.50 peak=7979.7 noise=1227.1
+[ 105.734] I (128527) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 107.475] I (130327) motor: car stop
+[ 107.475] I (130327) CustomWakeWord: AUTO STOP (safety)
+[ 108.221] I (131017) CustomWakeWord: === LOCAL CMD: id=2, word= kai deng, prob=0.17 ===
+[ 108.221] I (131017) CustomWakeWord: MNPOST num=1 2:0.172
+[ 108.221] I (131017) CustomWakeWord: VOICEENERGY ratio=3.69 peak=4960.2 noise=1346.0
+[ 111.015] I (133807) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[ 111.015] I (133807) CustomWakeWord: MNPOST num=1 8:0.053
+[ 111.015] I (133807) CustomWakeWord: VOICEENERGY ratio=4.52 peak=5965.7 noise=1319.5
+[ 111.015] I (133807) motor: car stop
+[ 111.015] I (133817) CustomWakeWord: ACTION: stop
+[ 115.670] I (138467) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.14 ===
+[ 115.670] I (138467) CustomWakeWord: MNPOST num=1 1:0.142
+[ 115.670] I (138467) CustomWakeWord: VOICEENERGY ratio=3.70 peak=4232.1 noise=1142.7
+[ 115.670] I (138477) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 118.406] I (141237) CustomWakeWord: === LOCAL CMD: id=6, word= zuo zhuan, prob=0.34 ===
+[ 118.406] I (141237) CustomWakeWord: MNPOST num=1 6:0.344
+[ 118.406] I (141237) CustomWakeWord: VOICEENERGY ratio=4.74 peak=5511.7 noise=1162.0
+[ 118.406] I (141237) motor: wheel speeds (M3/M4) = [-15, 15]
+[ 118.406] I (141247) CustomWakeWord: ACTION: turn left (until 'stop')
+[ 121.193] I (144007) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.28 ===
+[ 121.193] I (144007) CustomWakeWord: MNPOST num=1 8:0.275
+[ 121.193] I (144007) CustomWakeWord: VOICEENERGY ratio=5.52 peak=9742.0 noise=1763.6
+[ 121.193] I (144017) motor: car stop
+[ 121.193] I (144017) CustomWakeWord: ACTION: stop
+[ 125.850] I (148657) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.12 ===
+[ 125.850] I (148657) CustomWakeWord: MNPOST num=1 1:0.118
+[ 125.850] I (148657) CustomWakeWord: VOICEENERGY ratio=3.14 peak=4737.8 noise=1508.3
+[ 125.850] I (148657) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 128.584] I (151427) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.08 ===
+[ 128.584] I (151427) CustomWakeWord: MNPOST num=1 4:0.076
+[ 128.644] I (151427) CustomWakeWord: VOICEENERGY ratio=2.53 peak=3235.6 noise=1278.9
+[ 128.644] I (151437) motor: wheel speeds (M3/M4) = [22, 22]
+[ 128.644] I (151437) CustomWakeWord: ACTION: forward (until 'stop')
+[ 131.442] I (154247) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.22 ===
+[ 131.442] I (154247) CustomWakeWord: MNPOST num=1 8:0.219
+[ 131.442] I (154247) CustomWakeWord: VOICEENERGY ratio=3.12 peak=5826.6 noise=1864.7
+[ 131.442] I (154257) motor: car stop
+[ 131.442] I (154257) CustomWakeWord: ACTION: stop
+[ 136.030] I (158857) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.10 ===
+[ 136.030] I (158857) CustomWakeWord: MNPOST num=1 1:0.097
+[ 136.030] I (158857) CustomWakeWord: VOICEENERGY ratio=3.20 peak=4548.9 noise=1423.3
+[ 136.030] I (158857) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 138.078] I (160897) motor: car stop
+[ 138.078] I (160897) CustomWakeWord: AUTO STOP (safety)
+[ 138.762] I (161587) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.33 ===
+[ 138.762] I (161587) CustomWakeWord: MNPOST num=1 7:0.326
+[ 138.762] I (161587) CustomWakeWord: VOICEENERGY ratio=4.10 peak=5185.3 noise=1264.8
+[ 138.762] I (161597) motor: wheel speeds (M3/M4) = [15, -15]
+[ 138.762] I (161597) CustomWakeWord: ACTION: turn right (until 'stop')
+[ 141.557] I (164357) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.26 ===
+[ 141.557] I (164357) CustomWakeWord: MNPOST num=1 8:0.264
+[ 141.557] I (164357) CustomWakeWord: VOICEENERGY ratio=3.64 peak=5982.8 noise=1643.6
+[ 141.557] I (164367) motor: car stop
+[ 141.557] I (164367) CustomWakeWord: ACTION: stop
+[ 146.156] I (168967) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.08 ===
+[ 146.156] I (168967) CustomWakeWord: MNPOST num=1 1:0.077
+[ 146.156] I (168967) CustomWakeWord: VOICEENERGY ratio=3.84 peak=5059.5 noise=1318.7
+[ 146.156] I (168967) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 148.897] I (171727) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.24 ===
+[ 148.897] I (171727) CustomWakeWord: MNPOST num=1 5:0.245
+[ 148.897] I (171727) CustomWakeWord: VOICEENERGY ratio=4.08 peak=4516.0 noise=1106.7
+[ 148.897] I (171727) motor: wheel speeds (M3/M4) = [-22, -22]
+[ 148.897] I (171737) CustomWakeWord: ACTION: backward (until 'stop')
+[ 151.693] I (174497) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.17 ===
+[ 151.693] I (174497) CustomWakeWord: MNPOST num=1 8:0.167
+[ 151.693] I (174497) CustomWakeWord: VOICEENERGY ratio=2.72 peak=5015.8 noise=1842.7
+[ 151.693] I (174507) motor: car stop
+[ 151.693] I (174507) CustomWakeWord: ACTION: stop
+[ 156.293] I (179117) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.07 ===
+[ 156.293] I (179117) CustomWakeWord: MNPOST num=1 1:0.074
+[ 156.293] I (179117) CustomWakeWord: VOICEENERGY ratio=2.82 peak=3795.0 noise=1346.8
+[ 156.293] I (179127) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 159.025] I (181867) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.17 ===
+[ 159.025] I (181867) CustomWakeWord: MNPOST num=1 5:0.169
+[ 159.025] I (181867) CustomWakeWord: VOICEENERGY ratio=4.34 peak=4995.5 noise=1152.2
+[ 159.025] I (181867) motor: wheel speeds (M3/M4) = [-22, -22]
+[ 159.086] I (181877) CustomWakeWord: ACTION: backward (until 'stop')
+[ 161.817] I (184657) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.19 ===
+[ 161.817] I (184657) CustomWakeWord: MNPOST num=1 8:0.194
+[ 161.817] I (184657) CustomWakeWord: VOICEENERGY ratio=2.87 peak=5311.8 noise=1851.8
+[ 161.817] I (184657) motor: car stop
+[ 161.817] I (184667) CustomWakeWord: ACTION: stop
+[ 166.426] I (189257) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.08 ===
+[ 166.426] I (189257) CustomWakeWord: MNPOST num=1 1:0.080
+[ 166.426] I (189257) CustomWakeWord: VOICEENERGY ratio=2.54 peak=3444.1 noise=1357.1
+[ 166.426] I (189267) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 169.224] I (192047) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.06 ===
+[ 169.224] I (192047) CustomWakeWord: MNPOST num=1 4:0.060
+[ 169.224] I (192047) CustomWakeWord: VOICEENERGY ratio=2.53 peak=2751.5 noise=1089.1
+[ 169.224] I (192057) motor: wheel speeds (M3/M4) = [22, 22]
+[ 169.224] I (192057) CustomWakeWord: ACTION: forward (until 'stop')
+[ 172.015] I (194827) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.21 ===
+[ 172.015] I (194827) CustomWakeWord: MNPOST num=1 8:0.209
+[ 172.015] I (194827) CustomWakeWord: VOICEENERGY ratio=2.87 peak=4874.3 noise=1698.2
+[ 172.015] I (194827) motor: car stop
+[ 172.015] I (194837) CustomWakeWord: ACTION: stop
+[ 176.616] I (199427) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.07 ===
+[ 176.616] I (199427) CustomWakeWord: MNPOST num=1 1:0.068
+[ 176.616] I (199427) CustomWakeWord: VOICEENERGY ratio=3.06 peak=3899.4 noise=1274.7
+[ 176.616] I (199437) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 178.414] I (201247) motor: car stop
+[ 178.414] I (201247) CustomWakeWord: AUTO STOP (safety)
+[ 179.413] I (202217) CustomWakeWord: === LOCAL CMD: id=4, word= qian jin, prob=0.05 ===
+[ 179.413] I (202217) CustomWakeWord: MNPOST num=1 4:0.052
+[ 179.413] I (202217) CustomWakeWord: VOICEENERGY ratio=2.87 peak=2992.9 noise=1041.2
+[ 179.413] I (202227) motor: wheel speeds (M3/M4) = [22, 22]
+[ 179.413] I (202227) CustomWakeWord: ACTION: forward (until 'stop')
+[ 182.204] I (205037) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.30 ===
+[ 182.204] I (205037) CustomWakeWord: MNPOST num=1 8:0.295
+[ 182.204] I (205037) CustomWakeWord: VOICEENERGY ratio=2.92 peak=4918.1 noise=1684.1
+[ 182.204] I (205047) motor: car stop
+[ 182.204] I (205047) CustomWakeWord: ACTION: stop
+[ 186.853] I (209647) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.09 ===
+[ 186.853] I (209647) CustomWakeWord: MNPOST num=1 1:0.089
+[ 186.853] I (209647) CustomWakeWord: VOICEENERGY ratio=3.17 peak=4023.7 noise=1268.5
+[ 186.853] I (209647) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 188.653] I (211447) motor: car stop
+[ 188.653] I (211447) CustomWakeWord: AUTO STOP (safety)
+[ 189.586] I (212387) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.05 ===
+[ 189.586] I (212387) CustomWakeWord: MNPOST num=1 8:0.054
+[ 189.586] I (212387) CustomWakeWord: VOICEENERGY ratio=4.62 peak=4872.0 noise=1054.1
+[ 189.586] I (212397) motor: car stop
+[ 189.586] I (212397) CustomWakeWord: ACTION: stop
+[ 192.324] I (215147) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.15 ===
+[ 192.324] I (215147) CustomWakeWord: MNPOST num=1 8:0.151
+[ 192.324] I (215147) CustomWakeWord: VOICEENERGY ratio=5.65 peak=5165.1 noise=914.8
+[ 192.324] I (215157) motor: car stop
+[ 192.324] I (215157) CustomWakeWord: ACTION: stop
+[ 196.977] I (219787) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.12 ===
+[ 196.977] I (219787) CustomWakeWord: MNPOST num=1 1:0.121
+[ 196.977] I (219787) CustomWakeWord: VOICEENERGY ratio=3.65 peak=3408.5 noise=933.6
+[ 196.977] I (219787) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 198.783] I (221607) motor: car stop
+[ 198.783] I (221607) CustomWakeWord: AUTO STOP (safety)
+[ 199.651] I (222497) CustomWakeWord: === LOCAL CMD: id=5, word= hou tui, prob=0.06 ===
+[ 199.651] I (222497) CustomWakeWord: MNPOST num=1 5:0.058
+[ 199.713] I (222497) CustomWakeWord: VOICEENERGY ratio=5.98 peak=5235.0 noise=875.5
+[ 199.713] I (222507) motor: wheel speeds (M3/M4) = [-22, -22]
+[ 199.713] I (222517) CustomWakeWord: ACTION: backward (until 'stop')
+[ 202.451] I (225297) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.22 ===
+[ 202.451] I (225297) CustomWakeWord: MNPOST num=1 8:0.219
+[ 202.451] I (225297) CustomWakeWord: VOICEENERGY ratio=3.07 peak=5702.3 noise=1858.4
+[ 202.512] I (225297) motor: car stop
+[ 202.512] I (225307) CustomWakeWord: ACTION: stop
+[ 207.104] I (229927) CustomWakeWord: === LOCAL CMD: id=1, word= ni hao xiao che, prob=0.12 ===
+[ 207.104] I (229927) CustomWakeWord: MNPOST num=1 1:0.120
+[ 207.104] I (229927) CustomWakeWord: VOICEENERGY ratio=2.79 peak=3805.9 noise=1364.9
+[ 207.104] I (229927) CustomWakeWord: >> COMMAND WINDOW OPEN for 20 s
+[ 208.908] I (231737) motor: car stop
+[ 208.908] I (231737) CustomWakeWord: AUTO STOP (safety)
+[ 209.841] I (232657) CustomWakeWord: === LOCAL CMD: id=7, word= you zhuan, prob=0.05 ===
+[ 209.841] I (232657) CustomWakeWord: MNPOST num=1 7:0.051
+[ 209.841] I (232657) CustomWakeWord: VOICEENERGY ratio=3.65 peak=4378.7 noise=1200.9
+[ 209.841] I (232667) motor: wheel speeds (M3/M4) = [15, -15]
+[ 209.841] I (232667) CustomWakeWord: ACTION: turn right (until 'stop')
+[ 212.581] I (235427) CustomWakeWord: === LOCAL CMD: id=8, word= ting xia, prob=0.16 ===
+[ 212.581] I (235427) CustomWakeWord: MNPOST num=1 8:0.160
+[ 212.642] I (235427) CustomWakeWord: VOICEENERGY ratio=3.30 peak=5537.9 noise=1676.4
+[ 212.642] I (235437) motor: car stop
+[ 212.642] I (235437) CustomWakeWord: ACTION: stop
+[ 219.046] I (241877) motor: car stop
+[ 219.046] I (241877) CustomWakeWord: AUTO STOP (safety)
+[ 229.240] I (252067) motor: car stop
+[ 229.240] I (252067) CustomWakeWord: AUTO STOP (safety)

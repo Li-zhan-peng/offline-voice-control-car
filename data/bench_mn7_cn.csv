@@ -1,0 +1,62 @@
+﻿kind,expect_id,expect_word,det_id,det_word,prob,latency_ms
+cmd,7,右转,7, you zhuan,0.27,506
+cmd,7,右转,7, you zhuan,0.23,419
+cmd,5,后退,5, hou tui,0.23,411
+cmd,6,左转,6, zuo zhuan,0.3,561
+cmd,3,关灯,3, guan deng,0.21,491
+cmd,7,右转,7, you zhuan,0.31,470
+cmd,4,前进,4, qian jin,0.3,597
+cmd,8,停下,8, ting xia,0.27,448
+cmd,2,开灯,2, kai deng,0.66,450
+cmd,6,左转,6, zuo zhuan,0.23,452
+cmd,2,开灯,2, kai deng,0.22,412
+cmd,5,后退,5, hou tui,0.37,413
+cmd,5,后退,5, hou tui,0.43,584
+cmd,6,左转,6, zuo zhuan,0.26,492
+cmd,3,关灯,3, guan deng,0.15,422
+cmd,8,停下,8, ting xia,0.29,603
+cmd,6,左转,6, zuo zhuan,0.2,512
+cmd,2,开灯,2, kai deng,0.22,473
+cmd,3,关灯,3, guan deng,0.28,473
+cmd,8,停下,8, ting xia,0.17,593
+cmd,6,左转,6, zuo zhuan,0.28,552
+cmd,2,开灯,2, kai deng,0.23,506
+cmd,2,开灯,2, kai deng,0.45,483
+cmd,3,关灯,3, guan deng,0.31,483
+cmd,5,后退,5, hou tui,0.21,421
+cmd,8,停下,8, ting xia,0.35,574
+cmd,7,右转,7, you zhuan,0.16,461
+cmd,4,前进,4, qian jin,0.45,643
+cmd,6,左转,6, zuo zhuan,0.17,557
+cmd,7,右转,7, you zhuan,0.29,461
+cmd,3,关灯,3, guan deng,0.16,457
+cmd,5,后退,5, hou tui,0.26,400
+cmd,4,前进,4, qian jin,0.31,564
+cmd,2,开灯,2, kai deng,0.15,529
+cmd,2,开灯,2, kai deng,0.16,508
+cmd,8,停下,8, ting xia,0.2,621
+cmd,3,关灯,,,,
+cmd,5,后退,5, hou tui,0.25,586
+cmd,3,关灯,3, guan deng,0.17,505
+cmd,7,右转,7, you zhuan,0.41,425
+cmd,7,右转,7, you zhuan,0.15,400
+cmd,4,前进,,,,
+cmd,4,前进,4, qian jin,0.31,539
+cmd,5,后退,5, hou tui,0.21,464
+cmd,8,停下,8, ting xia,0.23,554
+cmd,3,关灯,3, guan deng,0.21,528
+cmd,8,停下,8, ting xia,0.19,643
+cmd,6,左转,,,,
+cmd,4,前进,4, qian jin,0.15,577
+cmd,8,停下,8, ting xia,0.24,488
+cmd,4,前进,4, qian jin,0.29,646
+cmd,4,前进,,,,
+cmd,2,开灯,2, kai deng,0.23,540
+cmd,7,右转,7, you zhuan,0.35,452
+cmd,5,后退,5, hou tui,0.45,437
+cmd,6,左转,6, zuo zhuan,0.55,599
+wake,1,你好小车,1,ni hao xiao che,0.26,351
+wake,1,你好小车,,,,
+wake,1,你好小车,,,,
+wake,1,你好小车,1,ni hao xiao che,0.15,369
+wake,1,你好小车,,,,

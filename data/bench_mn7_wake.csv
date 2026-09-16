@@ -1,0 +1,6 @@
+﻿kind,expect_id,expect_word,det_id,det_word,prob,latency_ms
+wake,1,你好小车,1,ni hao xiao che,0.32,325
+wake,1,你好小车,1,ni hao xiao che,0.25,522
+wake,1,你好小车,,,,
+wake,1,你好小车,1,ni hao xiao che,0.15,368
+wake,1,你好小车,1,ni hao xiao che,0.16,566
