@@ -168,7 +168,8 @@ offline-voice-control-car/
 ├── docs/                   实验记录与调试记录
 │   ├── 01-experiments.md          算法实验记录（模型对比 + 判决算法）
 │   ├── 02-hardware-debugging.md   硬件调试记录（证据链完整）
-│   └── 03-functionality-and-scenarios.md  按场景梳理的功能模块
+│   ├── 03-functionality-and-scenarios.md  按场景梳理的功能模块
+│   └── 04-voiceprint-negative-result.md  声纹核验：一个如实记录的负结果
 ├── data/                   原始实验数据（可复现的凭据）
 │   ├── bench_*.csv / *.txt
 │   └── logs/*.log          串口日志（已过滤为只保留本项目相关行）
@@ -200,6 +201,10 @@ offline-voice-control-car/
   如果你在找"如何训练自定义唤醒词"，请参考乐鑫的 ESP-SR 训练工具链。
 - **没有做视觉与激光雷达**：本项目聚焦"离线语音控制的可靠性"，感知只用了一个超声波模块与板载惯性测量单元。
 - **没有做完整的量产验证**：目前是实验室环境下的验证样机，尚未进入中试与认证阶段。项目阶段与产品化路径见 `docs/03-functionality-and-scenarios.md`。
+- **没有启用声纹识别**：设备端声纹核验的整条链路我们做出来并上车测了，但实测表明这套手工谱特征
+  量测的是"录音时刻是否对齐"而不是"说话人身份"（同一个人重复说同一句话，主分数约等于 0），
+  因此**决定不启用**，只用"口令锁"作为授权层。完整数据、失败原因与两条可行的后续路线见
+  `docs/04-voiceprint-negative-result.md` —— 我们选择把负结果也写清楚，而不是留一个不敢让人测的功能。
 
 ---
 
