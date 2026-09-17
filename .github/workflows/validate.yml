@@ -1,0 +1,82 @@
+name: 结论可复现性校验
+
+# 这个 CI 不只是"跑一下脚本别报错", 它的目的是:
+#   把 README 与文档里声称的每一个关键数字, 都从 data/ 中的原始实测数据重新算一遍。
+#   算不出来就让构建失败。
+# 也就是说: 别人不需要信任我们的文字, 只需要看这个徽章是不是绿的。
+#   - 召回率 92.9% -> 100%
+#   - 响应延迟中位数 ~450ms
+#   - "后验概率分不开真口令与噪声"这个负面结论
+#   - "能量证据在保留 100% 真口令的前提下能挡掉大部分噪声"这个正面结论
+#   - 部署后独立验证中两类样本的能量比分布
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.10', '3.12']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: 语法检查(所有脚本必须能编译)
+        run: python -m py_compile bench/*.py tools/*.py
+
+      - name: 校验核心结论(从原始数据重算)
+        run: python bench/validate_claims.py
+
+      - name: 校验数据文件完整性
+        run: |
+          python - <<'PY'
+          import csv, json, os, sys
+          need = ['bench_mn5q8_cn.csv', 'bench_mn6_cn.csv', 'bench_mn7_cn.csv',
+                  'bench_mn7_cn_lowthr.csv', 'bench_mn7_deployed.csv',
+                  'bench_mn7_deployed_flow.csv', 'bench_mn7_wake.csv',
+                  'track_std8.json']
+          bad = []
+          for f in need:
+              p = os.path.join('data', f)
+              if not os.path.exists(p) or os.path.getsize(p) == 0:
+                  bad.append(f)
+          # 每个 CSV 必须有统一的列, 且行数不为 0
+          for f in need:
+              if not f.endswith('.csv'):
+                  continue
+              p = os.path.join('data', f)
+              if not os.path.exists(p):
+                  continue
+              with open(p, encoding='utf-8-sig') as fh:
+                  rows = list(csv.DictReader(fh))
+              if not rows:
+                  bad.append(f + ' (空)')
+              elif set(rows[0].keys()) != {'kind', 'expect_id', 'expect_word',
+                                          'det_id', 'det_word', 'prob', 'latency_ms'}:
+                  bad.append(f + ' (列不一致)')
+          # 测试轨时间点必须单调递增(否则时间对齐就错了)
+          meta = json.load(open('data/track_std8.json', encoding='utf-8'))
+          ts = [c['speech_end'] for c in meta['cues']]
+          if ts != sorted(ts):
+              bad.append('track_std8.json (时间点非单调)')
+          if bad:
+              print('数据文件有问题:', bad); sys.exit(1)
+          print('数据文件检查通过: %d 个文件' % len(need))
+          PY
+
+      - name: 图表可重新生成
+        run: |
+          pip install --quiet matplotlib
+          python tools/make_figures.py
+          ls -la figures/ 2>/dev/null || ls -la ../figures/ 2>/dev/null || true

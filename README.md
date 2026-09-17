@@ -10,6 +10,13 @@
 [![ESP-SR](https://img.shields.io/badge/Speech-ESP--SR%20MultiNet-green)]()
 [![Offline](https://img.shields.io/badge/Network-fully%20offline-orange)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)]()
+[![结论可复现性校验](https://github.com/Li-zhan-peng/offline-voice-control-car/actions/workflows/validate.yml/badge.svg)](https://github.com/Li-zhan-peng/offline-voice-control-car/actions/workflows/validate.yml)
+
+> 🌐 English version: [README.en.md](README.en.md)
+>
+> **上面那个 CI 徽章不是装饰。** 它会从 `data/` 里的原始实测数据**重新计算**本文档声称的每一个关键指标
+> （召回率 92.9%→100%、延迟约 450ms、后验概率分不开真口令与噪声、能量证据挡掉 86% 噪声……），
+> 算不出来就构建失败。也就是说：**你不需要相信我们的文字，只需要看徽章是不是绿的。**
 
 ---
 
@@ -32,7 +39,7 @@
 | 指标 | 结果 | 说明 |
 |---|---|---|
 | 命令词召回率 | **92.9% → 100%** | 把触发门限降到 0.05 当"召回层" |
-| 噪声误触发 | **挡掉 86%+** | "精度层"用音频能量证据判决 |
+| 噪声误触发 | **在保留 100% 真口令的前提下挡掉 86%** | "精度层"用音频能量证据判决；同样约束下后验概率只能挡掉 14% |
 | 全链路响应延迟 | **约 0.45 秒** | 完全离线，无网络往返 |
 | 语音模型体积 | **2.83 MB** | 可运行于 16MB Flash 的设备（三代模型对比后择优，比上一代小 26%）|
 | 驱动成功率 | **36% → 100%** | 容错设计：总线降速 + 指令心跳 + 驱动看门狗 |
@@ -64,7 +71,9 @@
 能量证据 = 最近 1 秒峰值 RMS ÷ 6 秒慢平均噪声底
 ```
 
-真口令 ≥ 1.94，噪声 ≤ 2.54，**沿一条轴分开了**。按"误动代价 3 倍于漏检"的代价函数选门限 K=1.2：
+真口令的能量比集中在 **1.94 ~ 9.94**，噪声集中在 **0.42 ~ 2.54** —— 大部分分开了，但仍然有少量重叠（真口令最低 1.94 略低于噪声最高 2.54）。
+
+**真正说明问题的是"同等约束下的对比"**：如果要求*必须保留 100% 的真口令*，后验概率只能挡掉 14% 的噪声，而能量证据能挡掉 **86%** —— 这就是它能用、后验不能用的原因。按"误动代价 3 倍于漏检"的代价函数选门限 K=1.2：
 
 ![能量证据](assets/figures/fig4_energy_separation.png)
 

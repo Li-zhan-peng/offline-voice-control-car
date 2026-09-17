@@ -1,0 +1,559 @@
+{
+ "tag": "std8",
+ "seed": 7,
+ "layout": "flow",
+ "duration": 287.735,
+ "cues": [
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 1,
+   "start": 3.0,
+   "speech_end": 3.5999,
+   "end": 4.395
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 2,
+   "start": 7.395,
+   "speech_end": 7.9949,
+   "end": 8.79
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 3,
+   "start": 11.79,
+   "speech_end": 12.3691,
+   "end": 13.18
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 4,
+   "start": 16.18,
+   "speech_end": 16.7619,
+   "end": 17.565
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 5,
+   "start": 20.565,
+   "speech_end": 21.1374,
+   "end": 21.92
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 6,
+   "start": 24.92,
+   "speech_end": 25.5199,
+   "end": 26.315
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 7,
+   "start": 29.315,
+   "speech_end": 29.9475,
+   "end": 30.745
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 8,
+   "start": 33.745,
+   "speech_end": 34.3994,
+   "end": 35.16
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 9,
+   "start": 38.16,
+   "speech_end": 38.7013,
+   "end": 39.485
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 10,
+   "start": 42.485,
+   "speech_end": 43.0669,
+   "end": 43.87
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 11,
+   "start": 46.87,
+   "speech_end": 47.4113,
+   "end": 48.195
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 12,
+   "start": 51.195,
+   "speech_end": 51.7741,
+   "end": 52.585
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 13,
+   "start": 55.585,
+   "speech_end": 56.1641,
+   "end": 56.975
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 14,
+   "start": 59.975,
+   "speech_end": 60.5569,
+   "end": 61.36
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 15,
+   "start": 64.36,
+   "speech_end": 64.9324,
+   "end": 65.715
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 16,
+   "start": 68.715,
+   "speech_end": 69.3694,
+   "end": 70.13
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 17,
+   "start": 73.13,
+   "speech_end": 73.7119,
+   "end": 74.515
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 18,
+   "start": 77.515,
+   "speech_end": 78.0563,
+   "end": 78.84
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 19,
+   "start": 81.84,
+   "speech_end": 82.4124,
+   "end": 83.195
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 20,
+   "start": 86.195,
+   "speech_end": 86.8494,
+   "end": 87.61
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 21,
+   "start": 90.61,
+   "speech_end": 91.1919,
+   "end": 91.995
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 22,
+   "start": 94.995,
+   "speech_end": 95.5363,
+   "end": 96.32
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 23,
+   "start": 99.32,
+   "speech_end": 99.8613,
+   "end": 100.645
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 24,
+   "start": 103.645,
+   "speech_end": 104.2174,
+   "end": 105.0
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 25,
+   "start": 108.0,
+   "speech_end": 108.5791,
+   "end": 109.39
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 26,
+   "start": 112.39,
+   "speech_end": 113.0444,
+   "end": 113.805
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 27,
+   "start": 116.805,
+   "speech_end": 117.4049,
+   "end": 118.2
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 28,
+   "start": 121.2,
+   "speech_end": 121.8325,
+   "end": 122.63
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 29,
+   "start": 125.63,
+   "speech_end": 126.2119,
+   "end": 127.015
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 30,
+   "start": 130.015,
+   "speech_end": 130.6149,
+   "end": 131.41
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 31,
+   "start": 134.41,
+   "speech_end": 134.9824,
+   "end": 135.765
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 32,
+   "start": 138.765,
+   "speech_end": 139.3441,
+   "end": 140.155
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 33,
+   "start": 143.155,
+   "speech_end": 143.7875,
+   "end": 144.585
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 34,
+   "start": 147.585,
+   "speech_end": 148.1263,
+   "end": 148.91
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 35,
+   "start": 151.91,
+   "speech_end": 152.4513,
+   "end": 153.235
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 36,
+   "start": 156.235,
+   "speech_end": 156.8894,
+   "end": 157.65
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 37,
+   "start": 160.65,
+   "speech_end": 161.2224,
+   "end": 162.005
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 38,
+   "start": 165.005,
+   "speech_end": 165.5841,
+   "end": 166.395
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 39,
+   "start": 169.395,
+   "speech_end": 169.9674,
+   "end": 170.75
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 40,
+   "start": 173.75,
+   "speech_end": 174.3499,
+   "end": 175.145
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 41,
+   "start": 178.145,
+   "speech_end": 178.7449,
+   "end": 179.54
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 42,
+   "start": 182.54,
+   "speech_end": 183.1725,
+   "end": 183.97
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 43,
+   "start": 186.97,
+   "speech_end": 187.6025,
+   "end": 188.4
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 44,
+   "start": 191.4,
+   "speech_end": 191.9791,
+   "end": 192.79
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 45,
+   "start": 195.79,
+   "speech_end": 196.4444,
+   "end": 197.205
+  },
+  {
+   "kind": "cmd",
+   "id": 3,
+   "word": "关灯",
+   "block": 46,
+   "start": 200.205,
+   "speech_end": 200.7774,
+   "end": 201.56
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 47,
+   "start": 204.56,
+   "speech_end": 205.2144,
+   "end": 205.975
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 48,
+   "start": 208.975,
+   "speech_end": 209.5569,
+   "end": 210.36
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 49,
+   "start": 213.36,
+   "speech_end": 213.9925,
+   "end": 214.79
+  },
+  {
+   "kind": "cmd",
+   "id": 8,
+   "word": "停下",
+   "block": 50,
+   "start": 217.79,
+   "speech_end": 218.4444,
+   "end": 219.205
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 51,
+   "start": 222.205,
+   "speech_end": 222.8375,
+   "end": 223.635
+  },
+  {
+   "kind": "cmd",
+   "id": 4,
+   "word": "前进",
+   "block": 52,
+   "start": 226.635,
+   "speech_end": 227.2675,
+   "end": 228.065
+  },
+  {
+   "kind": "cmd",
+   "id": 2,
+   "word": "开灯",
+   "block": 53,
+   "start": 231.065,
+   "speech_end": 231.6063,
+   "end": 232.39
+  },
+  {
+   "kind": "cmd",
+   "id": 7,
+   "word": "右转",
+   "block": 54,
+   "start": 235.39,
+   "speech_end": 235.9899,
+   "end": 236.785
+  },
+  {
+   "kind": "cmd",
+   "id": 5,
+   "word": "后退",
+   "block": 55,
+   "start": 239.785,
+   "speech_end": 240.3641,
+   "end": 241.175
+  },
+  {
+   "kind": "cmd",
+   "id": 6,
+   "word": "左转",
+   "block": 56,
+   "start": 244.175,
+   "speech_end": 244.7569,
+   "end": 245.56
+  },
+  {
+   "kind": "wake",
+   "id": 1,
+   "word": "你好小车",
+   "block": -1,
+   "start": 248.56,
+   "speech_end": 249.6155,
+   "end": 250.395
+  },
+  {
+   "kind": "wake",
+   "id": 1,
+   "word": "你好小车",
+   "block": -1,
+   "start": 252.395,
+   "speech_end": 253.4505,
+   "end": 254.23
+  },
+  {
+   "kind": "wake",
+   "id": 1,
+   "word": "你好小车",
+   "block": -1,
+   "start": 256.23,
+   "speech_end": 257.2855,
+   "end": 258.065
+  },
+  {
+   "kind": "wake",
+   "id": 1,
+   "word": "你好小车",
+   "block": -1,
+   "start": 260.065,
+   "speech_end": 261.1205,
+   "end": 261.9
+  },
+  {
+   "kind": "wake",
+   "id": 1,
+   "word": "你好小车",
+   "block": -1,
+   "start": 263.9,
+   "speech_end": 264.9555,
+   "end": 265.735
+  }
+ ],
+ "silence_start": 267.735,
+ "silence_total": 20.0
+}
